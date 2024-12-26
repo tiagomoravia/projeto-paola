@@ -95,7 +95,8 @@ main p {
     text-indent: 30px;
     font-size: 1.5em;
     line-height: 2em;
-    color: var(--cor02); 
+    color: var(--cor02);
+     
  }
 
 img {
@@ -103,8 +104,6 @@ img {
     margin: auto;
     
 }
-
-
 
 
 aside {

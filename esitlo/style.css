@@ -25,6 +25,8 @@ body {
 }
 
 header {
+    display: flex;
+    flex-direction: column;
     background-image: linear-gradient(to bottom, rgb(199, 199, 199), var(--cor00));
     padding: 20px;
     text-align: center;
@@ -96,8 +98,8 @@ main p {
     font-size: 1.5em;
     line-height: 2em;
     color: var(--cor02);
-     
- }
+
+}
 
 img {
     display: block;
